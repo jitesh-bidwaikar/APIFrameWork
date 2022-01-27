@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="6939" started-at="2022-01-23T16:23:12 IST" finished-at="2022-01-23T16:23:19 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="6939" started-at="2022-01-23T16:23:12 IST" finished-at="2022-01-23T16:23:19 IST">
+      <class name="org.testing.testScripts.TC1">
+        <test-method status="PASS" signature="testCase1()[pri:0, instance:org.testing.testScripts.TC1@2bbf4b8b]" name="testCase1" duration-ms="4747" started-at="2022-01-23T16:23:12 IST" finished-at="2022-01-23T16:23:17 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase1 -->
+      </class> <!-- org.testing.testScripts.TC1 -->
+      <class name="org.testing.testScripts.TC2">
+        <test-method status="PASS" signature="TestCase2()[pri:0, instance:org.testing.testScripts.TC2@69a3d1d]" name="TestCase2" duration-ms="1758" started-at="2022-01-23T16:23:17 IST" finished-at="2022-01-23T16:23:19 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase2 -->
+      </class> <!-- org.testing.testScripts.TC2 -->
+      <class name="org.testing.testScripts.TC3">
+        <test-method status="PASS" signature="TestCase3()[pri:0, instance:org.testing.testScripts.TC3@86be70a]" name="TestCase3" duration-ms="97" started-at="2022-01-23T16:23:19 IST" finished-at="2022-01-23T16:23:19 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase3 -->
+      </class> <!-- org.testing.testScripts.TC3 -->
+      <class name="org.testing.testScripts.TC4">
+        <test-method status="PASS" signature="testCase4()[pri:0, instance:org.testing.testScripts.TC4@480bdb19]" name="testCase4" duration-ms="203" started-at="2022-01-23T16:23:19 IST" finished-at="2022-01-23T16:23:19 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase4 -->
+      </class> <!-- org.testing.testScripts.TC4 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
